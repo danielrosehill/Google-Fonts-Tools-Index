@@ -2,7 +2,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Google-Fonts-Tools-Index)
 
-A curated index of utilities and libraries for working with Google Fonts — with an emphasis on installers for Linux desktops (CLI and GUI), plus developer libraries and the upstream font source itself.
+An index of utilities and libraries for working with Google Fonts — with an emphasis on installers for Linux desktops (CLI and GUI), plus developer libraries and the upstream font source itself.
 
 ## Scope
 
@@ -73,7 +73,7 @@ A curated index of utilities and libraries for working with Google Fonts — wit
 
 ## List Author
 
-Curated by [Daniel Rosehill](https://danielrosehill.com).
+Maintained by [Daniel Rosehill](https://danielrosehill.com).
 
 Contributions, corrections, and PRs welcome.
 

@@ -1,5 +1,9 @@
 # Google Fonts Tools Index [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
+
+**Last Updated:** October 2026
+
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Google-Fonts-Tools-Index)
 
 An index of utilities and libraries for working with Google Fonts — with an emphasis on installers for Linux desktops (CLI and GUI), plus developer libraries and the upstream font source itself.
